@@ -2,10 +2,10 @@
 *~
 
 # build
-/API/obj/
-/API/bin/
-/API/packages/
-/API/TestResults/
+API/obj/
+API/bin/
+API/packages/
+API/TestResults/
 
 # globs
 API/Makefile.in
