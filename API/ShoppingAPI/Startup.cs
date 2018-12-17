@@ -51,6 +51,7 @@ namespace ShoppingAPI
             }
 
             app.UseIdentity();
+            app.UseDefaultFiles();
             app.UseMvcWithDefaultRoute();
 
             app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod());

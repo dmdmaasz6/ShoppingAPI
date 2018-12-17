@@ -6,6 +6,8 @@ API/obj/
 API/bin/
 API/packages/
 API/TestResults/
+API/ShoppingAPI/node_modules/
+API/ShoppingAPI/wwwroot/
 
 # globs
 API/Makefile.in
