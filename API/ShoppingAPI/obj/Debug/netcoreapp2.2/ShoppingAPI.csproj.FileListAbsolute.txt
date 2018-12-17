@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\bin\Debug\netcoreapp2.2\ShoppingAPI.deps.json
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\bin\Debug\netcoreapp2.2\ShoppingAPI.runtimeconfig.json
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\bin\Debug\netcoreapp2.2\ShoppingAPI.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\bin\Debug\netcoreapp2.2\ShoppingAPI.dll
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\bin\Debug\netcoreapp2.2\ShoppingAPI.pdb
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.RazorAssemblyInfo.cache
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.RazorAssemblyInfo.cs
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.dll
+C:\Users\user\Documents\GitHub\ShoppingAPI\API\ShoppingAPI\obj\Debug\netcoreapp2.2\ShoppingAPI.pdb
