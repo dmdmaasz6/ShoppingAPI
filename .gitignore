@@ -2,43 +2,43 @@
 *~
 
 # build
-API/[Oo]bj/
-API/[Bb]in/
-API/packages/
-API/TestResults/
+/API/[Oo]bj/
+/API/[Bb]in/
+/API/packages/
+/API/TestResults/
 
 # globs
 API/Makefile.in
 *.DS_Store
-API/*.sln.cache
-API/*.suo
-API/*.cache
-API/*.pidb
-API/*.userprefs
-API/*.usertasks
-API/config.log
-API/config.make
-API/config.status
-API/aclocal.m4
-API/install-sh
-API/autom4te.cache/
-API/*.user
-API/*.tar.gz
-API/tarballs/
-API/test-results/
-API/Thumbs.db
-API/.vs/
+/API/*.sln.cache
+/API/*.suo
+/API/*.cache
+/API/*.pidb
+/API/*.userprefs
+/API/*.usertasks
+/API/config.log
+/API/config.make
+/API/config.status
+/API/aclocal.m4
+/API/install-sh
+/API/autom4te.cache/
+/API/*.user
+/API/*.tar.gz
+/API/tarballs/
+/API/test-results/
+/API/Thumbs.db
+/API/.vs/
 
 # Mac bundle stuff
-API/*.dmg
-API/*.app
+/API/*.dmg
+/API/*.app
 
 # resharper
-API/*_Resharper.*
-API/*.Resharper
+/API/*_Resharper.*
+/API/*.Resharper
 
 # dotCover
-API/*.dotCover
+/API/*.dotCover
 
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
