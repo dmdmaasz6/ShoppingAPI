@@ -2,8 +2,8 @@
 *~
 
 # build
-/API/[Oo]bj/
-/API/[Bb]in/
+/API/obj/
+/API/bin/
 /API/packages/
 /API/TestResults/
 
